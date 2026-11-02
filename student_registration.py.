@@ -1,0 +1,16 @@
+print("===== COLLEGE MANAGEMENT SYSTEM =====")
+print("       STUDENT REGISTRATION")
+print("------------------------------------")
+
+name = input("Enter Student Name: ")
+roll_no = input("Enter Roll Number: ")
+department = input("Enter Department: ")
+year = input("Enter Academic Year: ")
+
+print("\n===== REGISTRATION DETAILS =====")
+print("Student Name:", name)
+print("Roll Number:", roll_no)
+print("Department:", department)
+print("Academic Year:", year)
+
+print("\nStudent Registration Successful!")
